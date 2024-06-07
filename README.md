@@ -6,7 +6,8 @@ exposes one memory mapped IO region (at a time) to a [Glasgow
 Interface Explorer](https://glasgow-embedded.org/latest/intro.html).
 
 With it, the Glasgow can emulate nearly any IO card you might plug
-into the X16. So far I've [got an
+into the X16, so long as that card only wants to talk to a modern
+USB-capable PC 🤓. So far I've [got an
 applet](https://github.com/jkominek/glasgow) which half-assedly
 emulates a 16550, and hooks it up to a pseudoterminal on a Linux
 system. With David Murray's ROMTERM, you can then use the X16 as
