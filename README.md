@@ -16,6 +16,8 @@ a "serial" terminal to log into the Linux system.
 & ESP32 Network
 card](https://texelec.com/product/commander-x16-serial-network-card/).)
 
+![KiCad render of the card](https://raw.githubusercontent.com/jkominek/x16glasgow/master/imgs/3dpcb.jpg)
+
 And here's a quick little video of it in operation: https://www.youtube.com/watch?v=3OkkUSMPfc0
 
 # how it works
